@@ -20,6 +20,7 @@ Escreva um algoritmo que ao receber uma string s, mostre a mensagem encriptada d
 git clone  https://github.com/Day-coder/DesafioCapgemini.git
 ```
 Abrir o projeto na sua IDE.
+
 Executar.
 ## Autora
 Dayane Sousa Baia
